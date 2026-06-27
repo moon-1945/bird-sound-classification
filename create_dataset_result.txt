@@ -1,0 +1,30 @@
+Processing taxonomy: 134327it [3:24:35, 10.94it/s]
+Selected per order: {'Gruiformes': 1200, 'Columbiformes': 1200, 'Galliformes': 1149, 'Anseriformes': 1200, 'Cuculiformes': 1200, 'Caprimulgiformes': 1200, 'Passeriformes': 1200, 'Charadriiformes': 1200, 'Piciformes': 1200, 'Strigiformes': 1200, 'Accipitriformes': 1200, 'Psittaciformes': 1200}
+Accipitriformes: 1200 samples -> train 960, val 120, test 120
+Anseriformes: 1200 samples -> train 960, val 120, test 120
+Caprimulgiformes: 1200 samples -> train 960, val 120, test 120
+Charadriiformes: 1200 samples -> train 960, val 120, test 120
+Columbiformes: 1200 samples -> train 960, val 120, test 120
+Cuculiformes: 1200 samples -> train 960, val 120, test 120
+Galliformes: 1149 samples -> train 919, val 114, test 116
+Gruiformes: 1200 samples -> train 960, val 120, test 120
+Passeriformes: 1200 samples -> train 960, val 120, test 120
+Piciformes: 1200 samples -> train 960, val 120, test 120
+Psittaciformes: 1200 samples -> train 960, val 120, test 120
+Strigiformes: 1200 samples -> train 960, val 120, test 120
+Generating train split: 11479 examples [00:58, 196.84 examples/s]
+Built train: 11479 rows
+Generating train split: 1434 examples [00:12, 116.04 examples/s]
+Built validation: 1434 rows
+Generating train split: 1436 examples [00:09, 147.70 examples/s]
+Built test: 1436 rows
+Saving the dataset (21/21 shards): 100%|██████████| 11479/11479 [01:25<00:00, 134.83 examples/s]
+Saving the dataset (3/3 shards): 100%|██████████| 1434/1434 [00:08<00:00, 178.02 examples/s]
+Saving the dataset (3/3 shards): 100%|██████████| 1436/1436 [00:08<00:00, 166.04 examples/s]
+
+Final split sizes:
+train: 11479
+validation: 1434
+test: 1436
+
+Process finished with exit code 0

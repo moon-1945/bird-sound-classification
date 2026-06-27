@@ -1,0 +1,170 @@
+[
+  {
+    "mean_acc": 0.29238461538461535,
+    "ci_95": 0.009459370723041078,
+    "n_episodes": 100,
+    "encoder": "conv_ch32_plain_frozen",
+    "k_shot": 1
+  },
+  {
+    "mean_acc": 0.4508076923076924,
+    "ci_95": 0.006814955124112796,
+    "n_episodes": 100,
+    "encoder": "conv_ch32_plain_frozen",
+    "k_shot": 5
+  },
+  {
+    "mean_acc": 0.5105,
+    "ci_95": 0.006190310308549795,
+    "n_episodes": 100,
+    "encoder": "conv_ch32_plain_frozen",
+    "k_shot": 10
+  },
+  {
+    "mean_acc": 0.5372307692307693,
+    "ci_95": 0.0054472262857178195,
+    "n_episodes": 100,
+    "encoder": "conv_ch32_plain_frozen",
+    "k_shot": 20
+  },
+  {
+    "mean_acc": 0.27026923076923076,
+    "ci_95": 0.00782710121682005,
+    "n_episodes": 100,
+    "encoder": "res_ch32_se_frozen",
+    "k_shot": 1
+  },
+  {
+    "mean_acc": 0.43696153846153846,
+    "ci_95": 0.006279982173943682,
+    "n_episodes": 100,
+    "encoder": "res_ch32_se_frozen",
+    "k_shot": 5
+  },
+  {
+    "mean_acc": 0.5085384615384616,
+    "ci_95": 0.004961971245811623,
+    "n_episodes": 100,
+    "encoder": "res_ch32_se_frozen",
+    "k_shot": 10
+  },
+  {
+    "mean_acc": 0.5437692307692307,
+    "ci_95": 0.005405921948546342,
+    "n_episodes": 100,
+    "encoder": "res_ch32_se_frozen",
+    "k_shot": 20
+  },
+  {
+    "mean_acc": 0.2865,
+    "ci_95": 0.009055529789240697,
+    "n_episodes": 100,
+    "encoder": "res_ch32_nose_frozen",
+    "k_shot": 1
+  },
+  {
+    "mean_acc": 0.4962692307692307,
+    "ci_95": 0.007303446676058963,
+    "n_episodes": 100,
+    "encoder": "res_ch32_nose_frozen",
+    "k_shot": 5
+  },
+  {
+    "mean_acc": 0.5785384615384614,
+    "ci_95": 0.006315744999358542,
+    "n_episodes": 100,
+    "encoder": "res_ch32_nose_frozen",
+    "k_shot": 10
+  },
+  {
+    "mean_acc": 0.6223076923076923,
+    "ci_95": 0.006281953788161591,
+    "n_episodes": 100,
+    "encoder": "res_ch32_nose_frozen",
+    "k_shot": 20
+  },
+  {
+    "mean_acc": 0.2026153846153846,
+    "ci_95": 0.008172027334698425,
+    "n_episodes": 100,
+    "encoder": "protonet_conv_ch32__head_only_N5K5Q10",
+    "k_shot": 1
+  },
+  {
+    "mean_acc": 0.27738461538461534,
+    "ci_95": 0.005783929932865724,
+    "n_episodes": 100,
+    "encoder": "protonet_conv_ch32__head_only_N5K5Q10",
+    "k_shot": 5
+  },
+  {
+    "mean_acc": 0.3091923076923077,
+    "ci_95": 0.00509454762281875,
+    "n_episodes": 100,
+    "encoder": "protonet_conv_ch32__head_only_N5K5Q10",
+    "k_shot": 10
+  },
+  {
+    "mean_acc": 0.3307692307692308,
+    "ci_95": 0.005545822938823914,
+    "n_episodes": 100,
+    "encoder": "protonet_conv_ch32__head_only_N5K5Q10",
+    "k_shot": 20
+  },
+  {
+    "mean_acc": 0.17288461538461541,
+    "ci_95": 0.006501357394260437,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_se_head_only_N5K4Q8",
+    "k_shot": 1
+  },
+  {
+    "mean_acc": 0.23442307692307696,
+    "ci_95": 0.004997171665507206,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_se_head_only_N5K4Q8",
+    "k_shot": 5
+  },
+  {
+    "mean_acc": 0.2572692307692308,
+    "ci_95": 0.005149677691278677,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_se_head_only_N5K4Q8",
+    "k_shot": 10
+  },
+  {
+    "mean_acc": 0.28142307692307683,
+    "ci_95": 0.005412746377861065,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_se_head_only_N5K4Q8",
+    "k_shot": 20
+  },
+  {
+    "mean_acc": 0.1538076923076923,
+    "ci_95": 0.0060961171597659165,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_nose_head_only_N5K4Q8",
+    "k_shot": 1
+  },
+  {
+    "mean_acc": 0.2203846153846154,
+    "ci_95": 0.005583354075628372,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_nose_head_only_N5K4Q8",
+    "k_shot": 5
+  },
+  {
+    "mean_acc": 0.2494230769230769,
+    "ci_95": 0.005340883521575209,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_nose_head_only_N5K4Q8",
+    "k_shot": 10
+  },
+  {
+    "mean_acc": 0.2678846153846154,
+    "ci_95": 0.005445600653445298,
+    "n_episodes": 100,
+    "encoder": "protonet_res_ch32_nose_head_only_N5K4Q8",
+    "k_shot": 20
+  }
+]

@@ -1,0 +1,7 @@
+checkpoint                                                                  arch                                               acc   macro-f1
+custom/checkpoints_cnn/best_cnn_base_ch=32_conv.pt                          BirdCNN                                         0.6769     0.6757
+custom/checkpoints_cnn/best_cnn_base_ch=32_res.pt                           BirdResCNN                                      0.7138     0.7126
+custom/checkpoints_cnn/best_cnn_base_ch=32_res_no_se_block.pt               BirdResCNN                                      0.7159     0.7158
+finetuned/checkpoints/best_distilhubert.pt                                  DistilHuBERTEncoder                             0.6894     0.6864
+finetuned/checkpoints/best_birdaves_esp_aves2_naturelm_audio_v1_beats.pt    BirdAVESEncoder                                 0.6692     0.6601
+finetuned/checkpoints/best_birdaves_esp_aves2_sl_beats_bio.pt               BirdAVESEncoder                                 0.7953     0.7952

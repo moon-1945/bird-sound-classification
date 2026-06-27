@@ -1,0 +1,28 @@
+=============================================================================
+encoder                                            k_shot      acc     95% CI
+-----------------------------------------------------------------------------
+conv_ch32_plain_frozen                                  1   29.2% ±   0.9%
+conv_ch32_plain_frozen                                  5   45.1% ±   0.7%
+conv_ch32_plain_frozen                                 10   51.0% ±   0.6%
+conv_ch32_plain_frozen                                 20   53.7% ±   0.5%
+res_ch32_se_frozen                                      1   27.0% ±   0.8%
+res_ch32_se_frozen                                      5   43.7% ±   0.6%
+res_ch32_se_frozen                                     10   50.9% ±   0.5%
+res_ch32_se_frozen                                     20   54.4% ±   0.5%
+res_ch32_nose_frozen                                    1   28.6% ±   0.9%
+res_ch32_nose_frozen                                    5   49.6% ±   0.7%
+res_ch32_nose_frozen                                   10   57.9% ±   0.6%
+res_ch32_nose_frozen                                   20   62.2% ±   0.6%
+protonet_conv_ch32__head_only_N5K5Q10                   1   20.3% ±   0.8%
+protonet_conv_ch32__head_only_N5K5Q10                   5   27.7% ±   0.6%
+protonet_conv_ch32__head_only_N5K5Q10                  10   30.9% ±   0.5%
+protonet_conv_ch32__head_only_N5K5Q10                  20   33.1% ±   0.6%
+protonet_res_ch32_se_head_only_N5K4Q8                   1   17.3% ±   0.7%
+protonet_res_ch32_se_head_only_N5K4Q8                   5   23.4% ±   0.5%
+protonet_res_ch32_se_head_only_N5K4Q8                  10   25.7% ±   0.5%
+protonet_res_ch32_se_head_only_N5K4Q8                  20   28.1% ±   0.5%
+protonet_res_ch32_nose_head_only_N5K4Q8                 1   15.4% ±   0.6%
+protonet_res_ch32_nose_head_only_N5K4Q8                 5   22.0% ±   0.6%
+protonet_res_ch32_nose_head_only_N5K4Q8                10   24.9% ±   0.5%
+protonet_res_ch32_nose_head_only_N5K4Q8                20   26.8% ±   0.5%
+=============================================================================

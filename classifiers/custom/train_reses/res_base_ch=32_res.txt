@@ -1,0 +1,89 @@
+C:\Users\User\PycharmProjects\inaturalist-dataset\.venv\Scripts\python.exe C:\Users\User\PycharmProjects\inaturalist-dataset\classifiers\train_cnn.py
+Classes (12): {'Accipitriformes': 0, 'Anseriformes': 1, 'Caprimulgiformes': 2, 'Charadriiformes': 3, 'Columbiformes': 4, 'Cuculiformes': 5, 'Galliformes': 6, 'Gruiformes': 7, 'Passeriformes': 8, 'Piciformes': 9, 'Psittaciformes': 10, 'Strigiformes': 11}
+Epoch 01 | train loss 2.4969 acc 0.0884 f1 0.0660 | val loss 2.4752 acc 0.0962 f1 0.0318
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 02 | train loss 2.4748 acc 0.1007 f1 0.0450 | val loss 2.4691 acc 0.1102 f1 0.0381
+Epoch 03 | train loss 2.4483 acc 0.1127 f1 0.0617 | val loss 2.4090 acc 0.1269 f1 0.0459
+Epoch 04 | train loss 2.4173 acc 0.1250 f1 0.0715 | val loss 2.3537 acc 0.1416 f1 0.0718
+Epoch 05 | train loss 2.3719 acc 0.1427 f1 0.1056 | val loss 2.3139 acc 0.1743 f1 0.1007
+Epoch 06 | train loss 2.3234 acc 0.1599 f1 0.1279 | val loss 2.2411 acc 0.2071 f1 0.1568
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 07 | train loss 2.2973 acc 0.1676 f1 0.1383 | val loss 2.2836 acc 0.1778 f1 0.1421
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 08 | train loss 2.2738 acc 0.1728 f1 0.1479 | val loss 2.2848 acc 0.1932 f1 0.1559
+Epoch 09 | train loss 2.2310 acc 0.1944 f1 0.1762 | val loss 2.1671 acc 0.2301 f1 0.1982
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 10 | train loss 2.2081 acc 0.2055 f1 0.1854 | val loss 2.1380 acc 0.2371 f1 0.1948
+Epoch 11 | train loss 2.1822 acc 0.2204 f1 0.2025 | val loss 2.1292 acc 0.2838 f1 0.2435
+Epoch 12 | train loss 2.1413 acc 0.2392 f1 0.2170 | val loss 2.0114 acc 0.3201 f1 0.2783
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 13 | train loss 2.0901 acc 0.2639 f1 0.2403 | val loss 1.9790 acc 0.3285 f1 0.2804
+Epoch 14 | train loss 2.0409 acc 0.2899 f1 0.2644 | val loss 1.9115 acc 0.3563 f1 0.3044
+Epoch 15 | train loss 1.9914 acc 0.3018 f1 0.2767 | val loss 1.8982 acc 0.3717 f1 0.3484
+Epoch 16 | train loss 1.9476 acc 0.3283 f1 0.3088 | val loss 1.8020 acc 0.3982 f1 0.3775
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 17 | train loss 1.8909 acc 0.3532 f1 0.3322 | val loss 1.7478 acc 0.4066 f1 0.3840
+Epoch 18 | train loss 1.8408 acc 0.3715 f1 0.3489 | val loss 1.6908 acc 0.4547 f1 0.4348
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 19 | train loss 1.7908 acc 0.4003 f1 0.3802 | val loss 1.6900 acc 0.4449 f1 0.4224
+Epoch 20 | train loss 1.7235 acc 0.4224 f1 0.4060 | val loss 1.5625 acc 0.4861 f1 0.4737
+Epoch 21 | train loss 1.6687 acc 0.4479 f1 0.4336 | val loss 1.5449 acc 0.5119 f1 0.4945
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 22 | train loss 1.6112 acc 0.4704 f1 0.4544 | val loss 1.4827 acc 0.5153 f1 0.4949
+Epoch 23 | train loss 1.5436 acc 0.4992 f1 0.4842 | val loss 1.4705 acc 0.5418 f1 0.5218
+Epoch 24 | train loss 1.5025 acc 0.5173 f1 0.5048 | val loss 1.3933 acc 0.5544 f1 0.5403
+Epoch 25 | train loss 1.4448 acc 0.5478 f1 0.5373 | val loss 1.3463 acc 0.5676 f1 0.5578
+Epoch 26 | train loss 1.3991 acc 0.5639 f1 0.5555 | val loss 1.2799 acc 0.5927 f1 0.5900
+Epoch 27 | train loss 1.3437 acc 0.5770 f1 0.5705 | val loss 1.2770 acc 0.5927 f1 0.5967
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 28 | train loss 1.2982 acc 0.5938 f1 0.5900 | val loss 1.2598 acc 0.5900 f1 0.5859
+Epoch 29 | train loss 1.2581 acc 0.6112 f1 0.6091 | val loss 1.2369 acc 0.6060 f1 0.6088
+Epoch 30 | train loss 1.2079 acc 0.6257 f1 0.6239 | val loss 1.2107 acc 0.6206 f1 0.6248
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 31 | train loss 1.1699 acc 0.6384 f1 0.6380 | val loss 1.1706 acc 0.6283 f1 0.6315
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 32 | train loss 1.1358 acc 0.6546 f1 0.6546 | val loss 1.1159 acc 0.6583 f1 0.6541
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 33 | train loss 1.1240 acc 0.6571 f1 0.6568 | val loss 1.2411 acc 0.6165 f1 0.6241
+Epoch 34 | train loss 1.0851 acc 0.6728 f1 0.6742 | val loss 1.1388 acc 0.6499 f1 0.6546
+Epoch 35 | train loss 1.0723 acc 0.6744 f1 0.6752 | val loss 1.0915 acc 0.6604 f1 0.6697
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 36 | train loss 1.0456 acc 0.6777 f1 0.6790 | val loss 1.1109 acc 0.6583 f1 0.6598
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 37 | train loss 1.0070 acc 0.6972 f1 0.6978 | val loss 1.2243 acc 0.6367 f1 0.6447
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 38 | train loss 0.9874 acc 0.6994 f1 0.6998 | val loss 1.0577 acc 0.6674 f1 0.6686
+Epoch 39 | train loss 0.9595 acc 0.7094 f1 0.7098 | val loss 1.0666 acc 0.6722 f1 0.6741
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 40 | train loss 0.9358 acc 0.7161 f1 0.7168 | val loss 1.1291 acc 0.6618 f1 0.6671
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 41 | train loss 0.9261 acc 0.7202 f1 0.7204 | val loss 1.1228 acc 0.6646 f1 0.6652
+Epoch 42 | train loss 0.9034 acc 0.7264 f1 0.7274 | val loss 1.0570 acc 0.6848 f1 0.6871
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 43 | train loss 0.8931 acc 0.7270 f1 0.7267 | val loss 1.0915 acc 0.6646 f1 0.6739
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 44 | train loss 0.8732 acc 0.7373 f1 0.7377 | val loss 1.0082 acc 0.6918 f1 0.6932
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 45 | train loss 0.8485 acc 0.7451 f1 0.7456 | val loss 1.0540 acc 0.6834 f1 0.6867
+Epoch 46 | train loss 0.8490 acc 0.7435 f1 0.7439 | val loss 0.9900 acc 0.6994 f1 0.6999
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 47 | train loss 0.8178 acc 0.7569 f1 0.7570 | val loss 1.0459 acc 0.6946 f1 0.7000
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 48 | train loss 0.8009 acc 0.7593 f1 0.7593 | val loss 1.1277 acc 0.6827 f1 0.6869
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 49 | train loss 0.7814 acc 0.7662 f1 0.7660 | val loss 1.0228 acc 0.6939 f1 0.6976
+Epoch 50 | train loss 0.7683 acc 0.7709 f1 0.7712 | val loss 1.0293 acc 0.7029 f1 0.7017
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 51 | train loss 0.7585 acc 0.7718 f1 0.7718 | val loss 1.0469 acc 0.6994 f1 0.7023
+Epoch 52 | train loss 0.7398 acc 0.7803 f1 0.7807 | val loss 0.9779 acc 0.7008 f1 0.7039
+Epoch 53 | train loss 0.7361 acc 0.7790 f1 0.7787 | val loss 0.9961 acc 0.7057 f1 0.7083
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 54 | train loss 0.7243 acc 0.7870 f1 0.7871 | val loss 0.9838 acc 0.7155 f1 0.7174
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 55 | train loss 0.7091 acc 0.7903 f1 0.7904 | val loss 1.0315 acc 0.7148 f1 0.7161
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 56 | train loss 0.6881 acc 0.7931 f1 0.7931 | val loss 0.9827 acc 0.7113 f1 0.7111
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 57 | train loss 0.6779 acc 0.8017 f1 0.8015 | val loss 1.0296 acc 0.7050 f1 0.7054
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 58 | train loss 0.6884 acc 0.7983 f1 0.7984 | val loss 0.9964 acc 0.7036 f1 0.7065
+Epoch 59 | train loss 0.6615 acc 0.8036 f1 0.8031 | val loss 0.9537 acc 0.7183 f1 0.7187
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 60 | train loss 0.6415 acc 0.8092 f1 0.8087 | val loss 0.9773 acc 0.7085 f1 0.7123
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 61 | train loss 0.6304 acc 0.8088 f1 0.8090 | val loss 0.9832 acc 0.7071 f1 0.7095
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 62 | train loss 0.6122 acc 0.8211 f1 0.8210 | val loss 0.9819 acc 0.7127 f1 0.7143
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 63 | train loss 0.6206 acc 0.8191 f1 0.8193 | val loss 1.0678 acc 0.6939 f1 0.6971
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 64 | train loss 0.6005 acc 0.8227 f1 0.8228 | val loss 1.0067 acc 0.7162 f1 0.7137
+Epoch 65 | train loss 0.5910 acc 0.8217 f1 0.8218 | val loss 1.0113 acc 0.7315 f1 0.7317
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 66 | train loss 0.5905 acc 0.8239 f1 0.8238 | val loss 1.0185 acc 0.7029 f1 0.7040
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 67 | train loss 0.5765 acc 0.8286 f1 0.8285 | val loss 1.0036 acc 0.7169 f1 0.7163
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 68 | train loss 0.5637 acc 0.8348 f1 0.8350 | val loss 1.1046 acc 0.7134 f1 0.7124
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 69 | train loss 0.5636 acc 0.8380 f1 0.8381 | val loss 1.0251 acc 0.7036 f1 0.7034
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 70 | train loss 0.5396 acc 0.8418 f1 0.8420 | val loss 1.0577 acc 0.7043 f1 0.7049
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 71 | train loss 0.5458 acc 0.8400 f1 0.8401 | val loss 1.0402 acc 0.7148 f1 0.7144
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 72 | train loss 0.5384 acc 0.8426 f1 0.8425 | val loss 1.0769 acc 0.7169 f1 0.7138
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 73 | train loss 0.5148 acc 0.8505 f1 0.8504 | val loss 1.0551 acc 0.7169 f1 0.7191
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 74 | train loss 0.5101 acc 0.8505 f1 0.8506 | val loss 1.0652 acc 0.7127 f1 0.7119
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 75 | train loss 0.5043 acc 0.8518 f1 0.8515 | val loss 1.0324 acc 0.7155 f1 0.7170
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 76 | train loss 0.4792 acc 0.8598 f1 0.8596 | val loss 1.0462 acc 0.7085 f1 0.7079
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 77 | train loss 0.4815 acc 0.8582 f1 0.8581 | val loss 1.0016 acc 0.7176 f1 0.7207
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 78 | train loss 0.4710 acc 0.8616 f1 0.8615 | val loss 1.0110 acc 0.7148 f1 0.7161
+  0%|          | 0/718 [00:00<?, ?it/s]Epoch 79 | train loss 0.4732 acc 0.8605 f1 0.8607 | val loss 1.0317 acc 0.7148 f1 0.7148
+Epoch 80 | train loss 0.4624 acc 0.8653 f1 0.8652 | val loss 1.0417 acc 0.7127 f1 0.7127
+
+Early stopping at epoch 80 (no val_f1 improvement for 15 epochs, best was 0.7317 at epoch 65)
+
+Best checkpoint: epoch 65, val_f1 0.7317
+TEST | loss 1.0336 acc 0.7138 macro-f1 0.7126
+
+Process finished with exit code 0

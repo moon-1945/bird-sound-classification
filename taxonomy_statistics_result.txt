@@ -1,0 +1,333 @@
+📊  GLOBAL TAXONOMY DISTRIBUTION  (all splits combined)
+
+============================================================
+LEVEL : KINGDOM
+  unique classes : 1
+  total samples  : 14349
+  mean / class   : 14349.0
+  median count   : 14349
+  max count      : 14349  (Animalia)
+  min count      : 14349  (Animalia)
+  imbalance ratio: 1.0x
+  top-10 classes hold 100.0% of data
+
+  TOP 20:
+    1. Animalia                            14349  100.0%  ██████████████████████████████
+============================================================
+LEVEL : PHYLUM
+  unique classes : 1
+  total samples  : 14349
+  mean / class   : 14349.0
+  median count   : 14349
+  max count      : 14349  (Chordata)
+  min count      : 14349  (Chordata)
+  imbalance ratio: 1.0x
+  top-10 classes hold 100.0% of data
+
+  TOP 20:
+    1. Chordata                            14349  100.0%  ██████████████████████████████
+============================================================
+LEVEL : CLASS
+  unique classes : 1
+  total samples  : 14349
+  mean / class   : 14349.0
+  median count   : 14349
+  max count      : 14349  (Aves)
+  min count      : 14349  (Aves)
+  imbalance ratio: 1.0x
+  top-10 classes hold 100.0% of data
+
+  TOP 20:
+    1. Aves                                14349  100.0%  ██████████████████████████████
+============================================================
+LEVEL : ORDER
+  unique classes : 12
+  total samples  : 14349
+  mean / class   : 1195.8
+  median count   : 1200
+  max count      : 1200  (Accipitriformes)
+  min count      : 1149  (Galliformes)
+  imbalance ratio: 1.0x
+  top-10 classes hold 83.6% of data
+
+  TOP 20:
+    1. Accipitriformes                      1200    8.4%  ██████████████████████████████
+    2. Gruiformes                           1200    8.4%  ██████████████████████████████
+    3. Columbiformes                        1200    8.4%  ██████████████████████████████
+    4. Psittaciformes                       1200    8.4%  ██████████████████████████████
+    5. Piciformes                           1200    8.4%  ██████████████████████████████
+    6. Cuculiformes                         1200    8.4%  ██████████████████████████████
+    7. Strigiformes                         1200    8.4%  ██████████████████████████████
+    8. Passeriformes                        1200    8.4%  ██████████████████████████████
+    9. Anseriformes                         1200    8.4%  ██████████████████████████████
+   10. Charadriiformes                      1200    8.4%  ██████████████████████████████
+   11. Caprimulgiformes                     1200    8.4%  ██████████████████████████████
+   12. Galliformes                          1149    8.0%  ████████████████████████████
+============================================================
+LEVEL : FAMILY
+  unique classes : 35
+  total samples  : 14349
+  mean / class   : 410.0
+  median count   : 289
+  max count      : 1200  (Accipitridae)
+  min count      : 1  (Glareolidae)
+  imbalance ratio: 1200.0x
+  top-10 classes hold 70.9% of data
+
+  TOP 20:
+    1. Accipitridae                         1200    8.4%  ██████████████████████████████
+    2. Columbidae                           1200    8.4%  ██████████████████████████████
+    3. Cuculidae                            1200    8.4%  ██████████████████████████████
+    4. Strigidae                            1200    8.4%  ██████████████████████████████
+    5. Anatidae                             1200    8.4%  ██████████████████████████████
+    6. Picidae                               953    6.6%  ███████████████████████
+    7. Acrocephalidae                        901    6.3%  ██████████████████████
+    8. Charadriidae                          781    5.4%  ███████████████████
+    9. Caprimulgidae                         767    5.3%  ███████████████████
+   10. Rallidae                              766    5.3%  ███████████████████
+   11. Phasianidae                           562    3.9%  ██████████████
+   12. Psittacidae                           508    3.5%  ████████████
+   13. Odontophoridae                        433    3.0%  ██████████
+   14. Apodidae                              431    3.0%  ██████████
+   15. Gruidae                               391    2.7%  █████████
+   16. Psittaculidae                         377    2.6%  █████████
+   17. Cacatuidae                            315    2.2%  ███████
+   18. Acanthizidae                          289    2.0%  ███████
+   19. Laridae                               287    2.0%  ███████
+   20. Megalaimidae                          194    1.4%  ████
+============================================================
+LEVEL : GENUS
+  unique classes : 239
+  total samples  : 14349
+  mean / class   : 60.0
+  median count   : 10
+  max count      : 922  (Buteo)
+  min count      : 1  (Bolborhynchus)
+  imbalance ratio: 922.0x
+  top-10 classes hold 42.9% of data
+
+  TOP 20:
+    1. Buteo                                 922    6.4%  ██████████████████████████████
+    2. Acrocephalus                          901    6.3%  █████████████████████████████
+    3. Colaptes                              818    5.7%  ██████████████████████████
+    4. Bubo                                  676    4.7%  █████████████████████
+    5. Antrostomus                           663    4.6%  █████████████████████
+    6. Charadrius                            514    3.6%  ████████████████
+    7. Branta                                508    3.5%  ████████████████
+    8. Cuculus                               463    3.2%  ███████████████
+    9. Coccyzus                              352    2.5%  ███████████
+   10. Streptopelia                          332    2.3%  ██████████
+   11. Columba                               283    2.0%  █████████
+   12. Anas                                  275    1.9%  ████████
+   13. Accipiter                             268    1.9%  ████████
+   14. Apus                                  260    1.8%  ████████
+   15. Antigone                              245    1.7%  ███████
+   16. Vanellus                              234    1.6%  ███████
+   17. Asio                                  203    1.4%  ██████
+   18. Callipepla                            202    1.4%  ██████
+   19. Psilopogon                            194    1.4%  ██████
+   20. Fulica                                184    1.3%  █████
+============================================================
+LEVEL : SPECIFIC_EPITHET
+  unique classes : 635
+  total samples  : 14349
+  mean / class   : 22.6
+  median count   : 4
+  max count      : 808  (vociferus)
+  min count      : 1  (orbygnesius)
+  imbalance ratio: 808.0x
+  top-10 classes hold 35.2% of data
+
+  TOP 20:
+    1. vociferus                             808    5.6%  ██████████████████████████████
+    2. auratus                               769    5.4%  ████████████████████████████
+    3. virginianus                           757    5.3%  ████████████████████████████
+    4. canadensis                            721    5.0%  ██████████████████████████
+    5. lineatus                              516    3.6%  ███████████████████
+    6. canorus                               463    3.2%  █████████████████
+    7. carolinensis                          275    1.9%  ██████████
+    8. dumetorum                             258    1.8%  █████████
+    9. decaocto                              246    1.7%  █████████
+   10. americanus                            245    1.7%  █████████
+   11. apus                                  243    1.7%  █████████
+   12. jamaicensis                           232    1.6%  ████████
+   13. platyrhynchos                         227    1.6%  ████████
+   14. arundinaceus                          223    1.6%  ████████
+   15. palumbus                              209    1.5%  ███████
+   16. buteo                                 180    1.3%  ██████
+   17. palustris                             179    1.2%  ██████
+   18. crex                                  178    1.2%  ██████
+   19. otus                                  177    1.2%  ██████
+   20. californica                           170    1.2%  ██████
+============================================================
+LEVEL : SUPERCATEGORY
+  unique classes : 1
+  total samples  : 14349
+  mean / class   : 14349.0
+  median count   : 14349
+  max count      : 14349  (Aves)
+  min count      : 14349  (Aves)
+  imbalance ratio: 1.0x
+  top-10 classes hold 100.0% of data
+
+  TOP 20:
+    1. Aves                                14349  100.0%  ██████████████████████████████
+
+
+
+🔀  PER-SPLIT DISTRIBUTION CHECK  (order level)
+
+  order                             train    validation          test     total  split balance
+------------------------------------------------------------------------------------------------------------------------
+  Accipitriformes                     960           120           120      1200
+  Gruiformes                          960           120           120      1200
+  Columbiformes                       960           120           120      1200
+  Psittaciformes                      960           120           120      1200
+  Piciformes                          960           120           120      1200
+  Cuculiformes                        960           120           120      1200
+  Strigiformes                        960           120           120      1200
+  Passeriformes                       960           120           120      1200
+  Anseriformes                        960           120           120      1200
+  Charadriiformes                     960           120           120      1200
+  Caprimulgiformes                    960           120           120      1200
+  Galliformes                         919           114           116      1149
+
+
+🌿  SPECIES RICHNESS PER ORDER  (unique specific_epithet per order)
+
+  order                      species   samples   samples/species
+------------------------------------------------------------
+  Psittaciformes                 130      1200               9.2
+  Galliformes                    100      1149              11.5
+  Charadriiformes                 79      1200              15.2
+  Columbiformes                   71      1200              16.9
+  Piciformes                      69      1200              17.4
+  Gruiformes                      54      1200              22.2
+  Anseriformes                    41      1200              29.3
+  Cuculiformes                    37      1200              32.4
+  Passeriformes                   34      1200              35.3
+  Accipitriformes                 33      1200              36.4
+  Caprimulgiformes                29      1200              41.4
+  Strigiformes                    15      1200              80.0
+
+
+🐦  LONG-TAIL ANALYSIS
+
+  FAMILY
+    classes with <   5 samples:     4 / 35  (11.4% of classes,  0.1% of data)
+    classes with <  10 samples:     6 / 35  (17.1% of classes,  0.1% of data)
+    classes with <  20 samples:    10 / 35  (28.6% of classes,  0.6% of data)
+    classes with <  50 samples:    13 / 35  (37.1% of classes,  1.3% of data)
+
+  GENUS
+    classes with <   5 samples:    96 / 239  (40.2% of classes,  1.3% of data)
+    classes with <  10 samples:   117 / 239  (49.0% of classes,  2.3% of data)
+    classes with <  20 samples:   151 / 239  (63.2% of classes,  5.6% of data)
+    classes with <  50 samples:   179 / 239  (74.9% of classes,  11.4% of data)
+
+  SPECIFIC_EPITHET
+    classes with <   5 samples:   354 / 635  (55.7% of classes,  4.6% of data)
+    classes with <  10 samples:   457 / 635  (72.0% of classes,  9.4% of data)
+    classes with <  20 samples:   526 / 635  (82.8% of classes,  15.9% of data)
+    classes with <  50 samples:   578 / 635  (91.0% of classes,  26.9% of data)
+
+
+
+⚠️   BOTTOM 20 SPECIES  (most likely to hurt recall)
+
+    1. accipitrinus                           1 samples  (Psittaciformes)
+    2. perspicillatus                         1 samples  (Passeriformes)
+    3. violacea                               1 samples  (Columbiformes)
+    4. jacutinga                              1 samples  (Galliformes)
+    5. spinosus                               1 samples  (Charadriiformes)
+    6. bennettii                              1 samples  (Piciformes)
+    7. vitiensis                              1 samples  (Columbiformes)
+    8. ater                                   1 samples  (Charadriiformes)
+    9. manilatus                              1 samples  (Psittaciformes)
+   10. xanthocephalus                         1 samples  (Piciformes)
+   11. leucocephala                           1 samples  (Columbiformes)
+   12. pretrei                                1 samples  (Psittaciformes)
+   13. pyrolophus                             1 samples  (Piciformes)
+   14. unirufus                               1 samples  (Cuculiformes)
+   15. analis                                 1 samples  (Piciformes)
+   16. oorti                                  1 samples  (Piciformes)
+   17. guatemalensis                          1 samples  (Piciformes)
+   18. personatus                             1 samples  (Psittaciformes)
+   19. rossii                                 1 samples  (Anseriformes)
+   20. orbygnesius                            1 samples  (Psittaciformes)
+
+
+🔍  SANITY CHECK: species appearing in > 1 order
+
+  ⚠️  55 species found in multiple orders:
+    africanus                           → Charadriiformes, Strigiformes
+    albifrons                           → Anseriformes, Psittaciformes
+    americana                           → Anseriformes, Gruiformes
+    asiatica                            → Columbiformes, Galliformes
+    asiaticus                           → Caprimulgiformes, Piciformes
+    australis                           → Cuculiformes, Gruiformes, Passeriformes, Piciformes
+    autumnalis                          → Anseriformes, Psittaciformes
+    badius                              → Accipitriformes, Caprimulgiformes
+    brachyrhynchus                      → Anseriformes, Charadriiformes
+    brachyurus                          → Accipitriformes, Psittaciformes
+    canadensis                          → Anseriformes, Gruiformes
+    capensis                            → Charadriiformes, Galliformes
+    chinensis                           → Columbiformes, Galliformes
+    cinerea                             → Cuculiformes, Gruiformes
+    cinereus                            → Charadriiformes, Gruiformes
+    cirrocephalus                       → Accipitriformes, Charadriiformes
+    collaris                            → Anseriformes, Charadriiformes
+    cristatus                           → Caprimulgiformes, Galliformes
+    elegans                             → Columbiformes, Psittaciformes
+    fasciatus                           → Accipitriformes, Gruiformes
+    finschi                             → Charadriiformes, Psittaciformes
+    flavirostris                        → Anseriformes, Columbiformes
+    frontalis                           → Passeriformes, Psittaciformes
+    fuliginosus                         → Charadriiformes, Galliformes
+    fuscus                              → Charadriiformes, Psittaciformes
+    jamaicensis                         → Accipitriformes, Gruiformes
+    lagopus                             → Accipitriformes, Galliformes
+    lathami                             → Galliformes, Psittaciformes
+    leucophrys                          → Anseriformes, Galliformes
+    leucopsis                           → Anseriformes, Passeriformes
+    leucotis                            → Columbiformes, Piciformes
+    lineatus                            → Accipitriformes, Piciformes
+    macroura                            → Columbiformes, Galliformes
+    maculosa                            → Columbiformes, Piciformes
+    major                               → Cuculiformes, Piciformes
+    melanops                            → Charadriiformes, Gruiformes
+    minor                               → Cuculiformes, Piciformes
+    minuta                              → Columbiformes, Cuculiformes
+    nipalensis                          → Accipitriformes, Caprimulgiformes
+    olivacea                            → Gruiformes, Passeriformes
+    orientalis                          → Columbiformes, Passeriformes
+    pallidus                            → Caprimulgiformes, Cuculiformes
+    passerinus                          → Cuculiformes, Psittaciformes
+    pectoralis                          → Galliformes, Gruiformes
+    pusilla                             → Passeriformes, Psittaciformes
+    ridgwayi                            → Caprimulgiformes, Strigiformes
+    senegalensis                        → Charadriiformes, Columbiformes
+    sonneratii                          → Cuculiformes, Galliformes
+    sulphurea                           → Passeriformes, Psittaciformes
+    superciliaris                       → Charadriiformes, Galliformes
+    versicolor                          → Galliformes, Psittaciformes
+    virginianus                         → Galliformes, Strigiformes
+    viridis                             → Cuculiformes, Piciformes
+    vociferus                           → Caprimulgiformes, Charadriiformes
+    wagleri                             → Galliformes, Psittaciformes
+
+
+📋  QUICK SUMMARY TABLE
+
+  level                 classes   avg/class     imbalance
+------------------------------------------------------------
+  kingdom                     1     14349.0          1.0x
+  phylum                      1     14349.0          1.0x
+  class                       1     14349.0          1.0x
+  order                      12      1195.8          1.0x
+  family                     35       410.0       1200.0x
+  genus                     239        60.0        922.0x
+  specific_epithet          635        22.6        808.0x
+  supercategory               1     14349.0          1.0x
+
+Process finished with exit code 0

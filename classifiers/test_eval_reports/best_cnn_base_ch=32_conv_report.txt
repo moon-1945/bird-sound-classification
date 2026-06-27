@@ -1,0 +1,23 @@
+Checkpoint: custom/checkpoints_cnn/best_cnn_base_ch=32_conv.pt
+Architecture: BirdCNN
+Test acc: 0.6769
+Test macro-f1: 0.6757
+
+                  precision    recall  f1-score   support
+
+ Accipitriformes       0.68      0.69      0.69       120
+    Anseriformes       0.76      0.78      0.77       120
+Caprimulgiformes       0.78      0.85      0.81       120
+ Charadriiformes       0.66      0.71      0.69       120
+   Columbiformes       0.74      0.68      0.71       120
+    Cuculiformes       0.71      0.68      0.69       120
+     Galliformes       0.46      0.48      0.47       116
+      Gruiformes       0.78      0.53      0.63       120
+   Passeriformes       0.67      0.73      0.70       120
+      Piciformes       0.72      0.58      0.65       120
+  Psittaciformes       0.66      0.75      0.70       120
+    Strigiformes       0.57      0.65      0.61       120
+
+        accuracy                           0.68      1436
+       macro avg       0.68      0.68      0.68      1436
+    weighted avg       0.68      0.68      0.68      1436

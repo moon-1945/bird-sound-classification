@@ -1,0 +1,7 @@
+checkpoint,arch,acc,f1
+custom/checkpoints_cnn/best_cnn_base_ch=32_conv.pt,BirdCNN,0.6768802228412256,0.6756554401824335
+custom/checkpoints_cnn/best_cnn_base_ch=32_res.pt,BirdResCNN,0.7137883008356546,0.7126464100823897
+custom/checkpoints_cnn/best_cnn_base_ch=32_res_no_se_block.pt,BirdResCNN,0.7158774373259053,0.7157655662024215
+finetuned/checkpoints/best_distilhubert.pt,DistilHuBERTEncoder,0.6894150417827298,0.6864477102021124
+finetuned/checkpoints/best_birdaves_esp_aves2_naturelm_audio_v1_beats.pt,BirdAVESEncoder,0.6692200557103064,0.6601034673705557
+finetuned/checkpoints/best_birdaves_esp_aves2_sl_beats_bio.pt,BirdAVESEncoder,0.7952646239554317,0.7951635308434222

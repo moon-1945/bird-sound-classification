@@ -1,0 +1,23 @@
+Checkpoint: finetuned/checkpoints/best_distilhubert.pt
+Architecture: DistilHuBERTEncoder
+Test acc: 0.6894
+Test macro-f1: 0.6864
+
+                  precision    recall  f1-score   support
+
+ Accipitriformes       0.63      0.70      0.66       120
+    Anseriformes       0.71      0.80      0.75       120
+Caprimulgiformes       0.76      0.82      0.79       120
+ Charadriiformes       0.72      0.74      0.73       120
+   Columbiformes       0.71      0.64      0.67       120
+    Cuculiformes       0.68      0.75      0.71       120
+     Galliformes       0.51      0.48      0.50       116
+      Gruiformes       0.75      0.67      0.70       120
+   Passeriformes       0.73      0.77      0.75       120
+      Piciformes       0.68      0.53      0.60       120
+  Psittaciformes       0.66      0.77      0.71       120
+    Strigiformes       0.76      0.59      0.66       120
+
+        accuracy                           0.69      1436
+       macro avg       0.69      0.69      0.69      1436
+    weighted avg       0.69      0.69      0.69      1436

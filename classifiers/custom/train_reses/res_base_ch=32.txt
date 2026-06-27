@@ -1,0 +1,36 @@
+C:\Users\User\PycharmProjects\inaturalist-dataset\.venv\Scripts\python.exe C:\Users\User\PycharmProjects\inaturalist-dataset\classifiers\train_cnn.py
+Classes (12): {'Accipitriformes': 0, 'Anseriformes': 1, 'Caprimulgiformes': 2, 'Charadriiformes': 3, 'Columbiformes': 4, 'Cuculiformes': 5, 'Galliformes': 6, 'Gruiformes': 7, 'Passeriformes': 8, 'Piciformes': 9, 'Psittaciformes': 10, 'Strigiformes': 11}
+Epoch 01 | train loss 2.3997 acc 0.1540 f1 0.1304 | val loss 2.5261 acc 0.1820 f1 0.1197
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 02 | train loss 2.2122 acc 0.2382 f1 0.2038 | val loss 2.5351 acc 0.1792 f1 0.1337
+Epoch 03 | train loss 2.0162 acc 0.3231 f1 0.2905 | val loss 1.9992 acc 0.3403 f1 0.3126
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 04 | train loss 1.8699 acc 0.3682 f1 0.3418 | val loss 1.8135 acc 0.3877 f1 0.3653
+Epoch 05 | train loss 1.7770 acc 0.4130 f1 0.3899 | val loss 1.7863 acc 0.4261 f1 0.4013
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 06 | train loss 1.6966 acc 0.4395 f1 0.4190 | val loss 2.2747 acc 0.3633 f1 0.3320
+Epoch 07 | train loss 1.6316 acc 0.4701 f1 0.4525 | val loss 1.6432 acc 0.4749 f1 0.4684
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 08 | train loss 1.5574 acc 0.4966 f1 0.4813 | val loss 1.5489 acc 0.4930 f1 0.4612
+Epoch 09 | train loss 1.5011 acc 0.5170 f1 0.5046 | val loss 1.5388 acc 0.5042 f1 0.4861
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 10 | train loss 1.4488 acc 0.5399 f1 0.5294 | val loss 1.6842 acc 0.4756 f1 0.4690
+Epoch 11 | train loss 1.3993 acc 0.5556 f1 0.5468 | val loss 1.4810 acc 0.5258 f1 0.5242
+Epoch 12 | train loss 1.3671 acc 0.5696 f1 0.5621 | val loss 1.3864 acc 0.5690 f1 0.5685
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 13 | train loss 1.3176 acc 0.5787 f1 0.5731 | val loss 1.3131 acc 0.5962 f1 0.5953
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 14 | train loss 1.2811 acc 0.5976 f1 0.5911 | val loss 1.4069 acc 0.5481 f1 0.5547
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 15 | train loss 1.2386 acc 0.6084 f1 0.6024 | val loss 1.3407 acc 0.5837 f1 0.5823
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 16 | train loss 1.2071 acc 0.6191 f1 0.6154 | val loss 1.2776 acc 0.5907 f1 0.5834
+Epoch 17 | train loss 1.1640 acc 0.6371 f1 0.6335 | val loss 1.3264 acc 0.5907 f1 0.5996
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 18 | train loss 1.1378 acc 0.6451 f1 0.6413 | val loss 1.1622 acc 0.6269 f1 0.6345
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 19 | train loss 1.1003 acc 0.6582 f1 0.6548 | val loss 1.2441 acc 0.6130 f1 0.6265
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 20 | train loss 1.0752 acc 0.6624 f1 0.6598 | val loss 1.1747 acc 0.6241 f1 0.6195
+Epoch 21 | train loss 1.0370 acc 0.6782 f1 0.6756 | val loss 1.1226 acc 0.6597 f1 0.6578
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 22 | train loss 1.0128 acc 0.6869 f1 0.6849 | val loss 1.1237 acc 0.6513 f1 0.6516
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 23 | train loss 0.9905 acc 0.6900 f1 0.6882 | val loss 1.1076 acc 0.6576 f1 0.6576
+Epoch 24 | train loss 0.9785 acc 0.6999 f1 0.6978 | val loss 1.0837 acc 0.6611 f1 0.6631
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 25 | train loss 0.9523 acc 0.7047 f1 0.7032 | val loss 1.0720 acc 0.6736 f1 0.6712
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 26 | train loss 0.9347 acc 0.7066 f1 0.7044 | val loss 1.0547 acc 0.6771 f1 0.6760
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 27 | train loss 0.9280 acc 0.7170 f1 0.7155 | val loss 1.0517 acc 0.6681 f1 0.6676
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 28 | train loss 0.9317 acc 0.7121 f1 0.7104 | val loss 1.0500 acc 0.6702 f1 0.6697
+  0%|          | 0/359 [00:00<?, ?it/s]Epoch 29 | train loss 0.9105 acc 0.7249 f1 0.7230 | val loss 1.0488 acc 0.6722 f1 0.6716
+Epoch 30 | train loss 0.9086 acc 0.7171 f1 0.7162 | val loss 1.0471 acc 0.6743 f1 0.6739
+
+TEST | loss 1.0673 acc 0.6769 macro-f1 0.6757
+
+Process finished with exit code 0
